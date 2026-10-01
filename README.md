@@ -1,6 +1,6 @@
 # P02. Banco de dados de experimentos físicos
 
-**Nº 2 de 48 na ordem de execução.** ID do projeto: P02.
+**Nº 2 de 37 na ordem de execução.** ID do projeto: P02.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
 - CD/Base-04 a 06 - SQL no SQLite: instruções, consultas, projeto base
